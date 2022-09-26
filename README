@@ -1,0 +1,3 @@
+this is simply as direct a conversion as possible of the Potvin & Fuglevand 2017 MU model from the original code in MATLAB to python.
+
+The code works to create the same outputs as the original model as tested by myself (Ryan Foley)
